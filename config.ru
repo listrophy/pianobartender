@@ -1,2 +1,2 @@
-require './pianobartender'
+require './lib/pianobartender'
 run Pianobartender

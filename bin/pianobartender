@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+`[ -f config.ru ] && rackup || rackup ../config.ru`
