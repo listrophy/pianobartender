@@ -1,0 +1,2 @@
+require './pianobartender'
+run Pianobartender
