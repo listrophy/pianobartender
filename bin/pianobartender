@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 
-`[ -f config.ru ] && rackup || rackup ../config.ru`
+config_ru = File.expand_path('../../config.ru', __FILE__)
+`rackup #{config_ru}`
