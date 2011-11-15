@@ -43,3 +43,5 @@ You can use any of the following commands:
 * upcoming
 * voldown
 * volup
+
+[pianobar]: https://github.com/PromyLOPh/pianobar
